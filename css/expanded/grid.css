@@ -467,7 +467,6 @@ main .row .pic2 {
   background-size: cover;
 }
 main .row .pic2:hover {
-  transition: 0.5s;
   background-size: 110%;
 }
 main .row .pic3 {
